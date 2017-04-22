@@ -1,0 +1,15 @@
+data/nbproject/project.xml.i
+data/nbproject/build-impl.xml.i
+data/nbproject/project.properties.i
+data/build.xml.i
+data/src/KeyCollectionDecomposed.java.i
+data/src/AbstractKeyCollection.java.i
+data/nbproject/genfiles.properties.i
+data/.hgignore.i
+data/extra/PrePostDoclet.jar.i
+data/src/KeyCollectionMonolithic.java.i
+data/test/KeyCollectionMonolithicTest.java.i
+data/test/KeyCollectionDecomposedTest.java.i
+data/test/AbstractKeyCollectionTestCases.java.i
+data/test/AbstractKeyCollectionTest.java.i
+data/PrePostDoclet.jar.i

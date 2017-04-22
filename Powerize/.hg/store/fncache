@@ -1,0 +1,13 @@
+data/manifest.mf.i
+data/nbproject/build-impl.xml.i
+data/nbproject/project.properties.i
+data/build.xml.i
+data/test/MathStuffTestAuxiliary.java.i
+data/nbproject/project.xml.i
+data/src/MathStuff.java.i
+data/nbproject/genfiles.properties.i
+data/.hgignore.i
+data/extra/PrePostDoclet.jar.i
+data/nbproject/findbugs.settings.i
+data/test/MathStuffTest.java.i
+data/test/MathStuffTestTopLevel.java.i

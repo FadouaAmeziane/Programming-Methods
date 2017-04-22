@@ -1,0 +1,15 @@
+data/manifest.mf.i
+data/nbproject/build-impl.xml.i
+data/nbproject/project.properties.i
+data/src/MainFrame.form.i
+data/build.xml.i
+data/src/Counter.java.i
+data/src/GeneratorListener.java.i
+data/src/MainFrame.java.i
+data/nbproject/project.xml.i
+data/nbproject/genfiles.properties.i
+data/.hgignore.i
+data/src/KakuroCombinationGenerator.java.i
+data/test/KakuroCombinationGeneratorTest.java.i
+data/test/IntersectorTest.java.i
+data/src/Intersector.java.i
